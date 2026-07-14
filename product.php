@@ -16,4 +16,9 @@
         date_default_timezone_set("Asia/Bangkok");
         $current_date = date("Y-m-d H:i:s");
     ?>
-    <input type="hidden" name="date_added" value="<?php echo $current_date; ?>"
+    
+<input type="hidden" name="date_added" value="<?php echo $current_date; ?>">
+<input type="submit" name="submit" value="OK">
+<input type="reset" name="reset" value="Cancel">
+</form>
+</html>
