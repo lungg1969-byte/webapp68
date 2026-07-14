@@ -9,3 +9,6 @@
 <input type="radio" name="product_type" value="ของใช้"> ของใช้<br>
 <input type="checkbox" name="sale_type1" value="ขายปลีก"> ขายปลีก
 <input type="checkbox" name="sale_type2" value="ขายส่ง"> ขายส่ง<br>
+<input type="radio" name="staff_name" value="ติวเตอร์"> ติวเตอร์
+<input type="radio" name="staff_name" value="เชอ"> เชอ
+<input type="radio" name="staff_name" value="ไก่"> ไก่<br>
