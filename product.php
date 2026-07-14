@@ -7,3 +7,5 @@
 <input type="radio" name="product_type" value="เครื่องดื่ม"> เครื่องดื่ม
 <input type="radio" name="product_type" value="ขนม"> ขนม
 <input type="radio" name="product_type" value="ของใช้"> ของใช้<br>
+<input type="checkbox" name="sale_type1" value="ขายปลีก"> ขายปลีก
+<input type="checkbox" name="sale_type2" value="ขายส่ง"> ขายส่ง<br>
