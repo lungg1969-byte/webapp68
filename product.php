@@ -12,3 +12,8 @@
 <input type="radio" name="staff_name" value="ติวเตอร์"> ติวเตอร์
 <input type="radio" name="staff_name" value="เชอ"> เชอ
 <input type="radio" name="staff_name" value="ไก่"> ไก่<br>
+<?php
+        date_default_timezone_set("Asia/Bangkok");
+        $current_date = date("Y-m-d H:i:s");
+    ?>
+    <input type="hidden" name="date_added" value="<?php echo $current_date; ?>"
