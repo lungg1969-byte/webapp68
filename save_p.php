@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "shop_db");
+$conn = mysqli_connect("localhost", "root", "root", "shop_db");
 $p_name = $_POST['p_name'];
 $p_price = $_POST['p_price'];
 $p_detail = $_POST['p_detail'];
